@@ -8,6 +8,7 @@
 ## Project Structure
 The repository contains the following:
 
+- **demo.ipynb:** Contain latest results
 - **experiments:** Contains Jupyter notebooks used for experimentation and testing.
 - **experiments/models:** Contain trained models
 - **data:**  Contains data from different sources, but not uploaded to github, data used can be found in 

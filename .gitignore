@@ -1,4 +1,4 @@
-data/emnist/emnist_source_files
+data/emnist/*
 data/handwritting*
 .DS*
 *.pyc
